@@ -6,11 +6,14 @@ http://www.independent.co.uk/us
 http://www.liberalamerica.org/
 
 --------------LEFT CENTER---------------
-https://www.wsj.com/
+http://abcnews.go.com/
+https://www.theguardian.com/observer
+https://www.wired.com/
 
 
 --------------RIGHT CENTER-------------
 http://www.washingtonexaminer.com/
+https://www.wsj.com/
 
 ---------------RIGHT-----------------
 http://www.lifenews.com/

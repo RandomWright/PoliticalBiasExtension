@@ -26,6 +26,7 @@ http://www.conservativehq.com
 http://www.conservativeoutfitters.com
 http://www.conservativepost.com
 http://www.conservativereview.com
+http://conservativetribune.com/
 http://www.constitutionrising.com
 http://www.controversialtimes.com
 http://www.crimepreventionresearchcenter.com
@@ -50,6 +51,7 @@ http://www.frontpagemagazine.com
 http://www.futureinamerica.com
 http://www.gatestoneinstitute.com
 http://www.gopcom.com
+https://gopthedailydose.com/
 http://www.governmentaccountabilityinstitute.com
 http://www.heartlandinstitute.com
 http://www.heritagefoundation.com
@@ -131,6 +133,6 @@ http://www.worldnetdailywnd.com
 http://www.yellowhammernews.com
 http://www.youngconservatives.com
 http://www.lifenews.com/
-http://www.rightwingnews.com/
+http://rightwingnews.com/
 https://www.gopthedailydose.com/
 http://www.conservativetribune.com/

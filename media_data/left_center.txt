@@ -30,7 +30,7 @@ http://www.brookingsinstitute.com
 http://www.buffalonews.com
 http://www.businessinsider.com
 http://www.bustlemagazine.com
-http://www.buzzfeed.com
+https://www.buzzfeed.com
 http://www.calgaryherald.com
 http://www.carolinapublicpress.com
 http://www.cbcnewscanadianbroadcasting.com
@@ -228,7 +228,7 @@ http://www.washingtonpost.com
 http://www.wgnnews.com
 http://www.windsorstar.com
 http://www.wiredmagazine.com
+https://www.wired.com
 http://www.wnyc.com
 http://www.worldaffairsjournal.com
 http://www.yahoonews.com
-https://www.wsj.com/

@@ -32,7 +32,7 @@ http://www.floridatimesunion.com
 http://www.forbes.com
 http://www.foreignpolicyinitiative.com
 http://www.foreignpolicyresearchinstitute.com
-http://www.fortunemagazine.com
+http://fortune.com/
 http://www.foundationforeconomiceducation.com
 http://www.franklincenterforgovernmentandpublicintegrity.com
 http://www.freedomhouse.com
@@ -122,3 +122,4 @@ http://www.watchdogorg.com
 http://www.waterburyrepublicanamerican.com
 http://www.wikileaks.com
 http://www.winstonsalemjournal.com
+https://www.wsj.com/
