@@ -1,0 +1,1 @@
+Raw data from the https://mediabiasfactcheck.com/. Python file that turned it into a better format for the extension.
